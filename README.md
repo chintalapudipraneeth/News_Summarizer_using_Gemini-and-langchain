@@ -1,6 +1,6 @@
 # News Chat Summarization Using Gemini LLM
 
-This is a Streamlit application that allows users to enter a news article URL and a chat question. The application then uses the Google Generative AI (Gemini) model and LangChain to summarize the relevant information from the article and provide an answer to the user's question.
+This is a Streamlit application that allows users to enter a news article URL and ask questions related to the content. The application then uses the Google Generative AI (Gemini) model and LangChain to summarize the relevant information from the article and provide an answer to the user's question.
 
 ## Features
 
